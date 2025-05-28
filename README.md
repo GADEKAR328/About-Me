@@ -12,7 +12,9 @@ All about me
 
 Meet me, Yogesh Gadekar — an aspiring **Data Analyst** with an academic background in **M.Sc. and B.Ed.** Recently, I completed a **Data Analytics Mastery** course from SkillCourse, covering tools like **MS Excel, Power Query, Tally Prime, SQL, Python, Power BI, and Tableau**. I'm passionate about transforming data into actionable insights and am excited to transition into the IT industry.
 
-<img align="right" alt="Yogesh Gadekar" src="https://github.com/yogeshgadekar/yogeshgadekar/blob/main/profile.jpg?raw=true" width="400" height="225" />
+## 💧 Water Filtration System Demo
+
+![Water Filtration System](https://github.com/yogeshgadekar/yogeshgadekar/blob/main/water-filtration.png)
 
 **Talking about Personal Stuff:**
 
