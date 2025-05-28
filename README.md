@@ -1,11 +1,9 @@
+### Hi there, I'm <a href="https://skst.in" target="_blank">Yogesh Gadekar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 # 💫 About Me:
 Hi, I'm Yogesh Gadekar, a passionate and results-driven Data Analyst, Business Analyst, MIS Executive, Power BI Developer, and SQL Developer with hands-on experience turning raw data into impactful insights that support strategic business decisions.<br><br>🔍 I specialize in:<br><br>📊 Data Analysis & Visualization – transforming complex datasets into interactive dashboards using Power BI & Excel<br><br>🧠 Business Intelligence – analyzing trends and KPIs to drive performance improvements<br><br>🗂️ MIS Reporting – automating and managing regular reports to ensure data accuracy and efficiency<br><br>🛠️ SQL Development – writing efficient queries, procedures, and optimizing databases for performance<br><br>📈 Business Analysis – identifying business needs and providing data-backed recommendations<br><br>💡 I'm passionate about continuous learning, real-world problem-solving, and using data to tell meaningful stories. Whether it’s through dashboards, reports, or custom SQL queries, I aim to bridge the gap between data and decision-making.
 
-### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yogeshgadekar.readme)
 
-Meet me, Yogesh Gadekar — an aspiring **Data Analyst** with an academic background in **M.Sc. and B.Ed.** Recently, I completed a **Data Analytics Mastery** course from SkillCourse, covering tools like **MS Excel, Power Query, Tally Prime, SQL, Python, Power BI, and Tableau**. I'm passionate about transforming data into actionable insights and am excited to transition into the IT industry.
-
-### Hi there, I'm <a href="https://skst.in" target="_blank">Yogesh Gadekar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-gadekar-a1231b189)
@@ -36,6 +34,6 @@ Meet me, Yogesh Gadekar — an aspiring **Data Analyst** with an academic backgr
 </br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=132006-bhumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=132006-bhumi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=132006-bhumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=GADEKAR328&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GADEKAR328&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GADEKAR328&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
