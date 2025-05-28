@@ -1,5 +1,4 @@
-### Hi there, I'm <a href="https://skst.in" target="_blank">Yogesh Gadekar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+## Hi there, I'm <a href="https://skst.in" target="_blank">Yogesh Gadekar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </br>
 
 ## 🌐 My Socials:
@@ -10,12 +9,20 @@
 
 </br>
 
-# 💫 About Me:
+## 💫 About Me:
 
 Hi, I'm Yogesh Gadekar, a passionate and results-driven Data Analyst, Business Analyst, MIS Executive, Power BI Developer, and SQL Developer with hands-on experience turning raw data into impactful insights that support strategic business decisions.<br><br>🔍 I specialize in:<br><br>📊 Data Analysis & Visualization – transforming complex datasets into interactive dashboards using Power BI & Excel<br><br>🧠 Business Intelligence – analyzing trends and KPIs to drive performance improvements<br><br>🗂️ MIS Reporting – automating and managing regular reports to ensure data accuracy and efficiency<br><br>🛠️ SQL Development – writing efficient queries, procedures, and optimizing databases for performance<br><br>📈 Business Analysis – identifying business needs and providing data-backed recommendations<br><br>💡 I'm passionate about continuous learning, real-world problem-solving, and using data to tell meaningful stories. Whether it’s through dashboards, reports, or custom SQL queries, I aim to bridge the gap between data and decision-making.
 </br> </br>
 
-# 💻 My Tech Stack:
+## My Work Sample:
+
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <img alt="Image 1" src="https://github.com/GADEKAR328/About-Me/blob/9d79afcbecf96dc92d68d0ed7bbcb5a6c97f1a33/IMG_20250528_090421.jpg?raw=true" width="400" height="225" />
+  <img alt="Image 2" src="https://github.com/GADEKAR328/About-Me/blob/82151e1022199b262fb1a2934adaaff83d8f4f48/IMG_20250528_090502.jpg?raw=true" width="400" height="225" />
+</div>
+</br>
+
+## 💻 My Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -32,12 +39,11 @@ Hi, I'm Yogesh Gadekar, a passionate and results-driven Data Analyst, Business A
 
 </br>
 
-# 📊 GitHub Stats:
+## 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GADEKAR328&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GADEKAR328&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GADEKAR328&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </br>
 
-<img align="left" alt="GIF" src="https://github.com/GADEKAR328/About-Me/blob/9d79afcbecf96dc92d68d0ed7bbcb5a6c97f1a33/IMG_20250528_090421.jpg?raw=true" width="400" height="225" />
-
+# 🤗😊 Thank You For Visiting Here 😊🤗
