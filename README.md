@@ -12,7 +12,7 @@ Hi, I'm Yogesh Gadekar, a passionate and results-driven Data Analyst, Business A
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@teachexptdemoart)
 
 
-<img align="right" alt="Photo" src="https://drive.google.com/uc?export=view&id=1tl36uTzKnFbysmyTlQH9qdPslXJOe53B" width="400" height="225" />
+<img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
 
 
 # 💻 Tech Stack:
