@@ -11,8 +11,24 @@
 
 ## 💫 About Me:
 
-Hi, I'm Yogesh Gadekar, a passionate and results-driven Data Analyst, Business Analyst, MIS Executive, Power BI Developer, and SQL Developer with hands-on experience turning raw data into impactful insights that support strategic business decisions.<br><br>🔍 I specialize in:<br><br>📊 Data Analysis & Visualization – transforming complex datasets into interactive dashboards using Power BI & Excel<br><br>🧠 Business Intelligence – analyzing trends and KPIs to drive performance improvements<br><br>🗂️ MIS Reporting – automating and managing regular reports to ensure data accuracy and efficiency<br><br>🛠️ SQL Development – writing efficient queries, procedures, and optimizing databases for performance<br><br>📈 Business Analysis – identifying business needs and providing data-backed recommendations<br><br>💡 I'm passionate about continuous learning, real-world problem-solving, and using data to tell meaningful stories. Whether it’s through dashboards, reports, or custom SQL queries, I aim to bridge the gap between data and decision-making.
-</br> </br>
+<p align="justify">
+Hi, I'm <strong>Yogesh Gadekar</strong>, a passionate and results-driven <strong>Data Analyst, Business Analyst, MIS Executive, Power BI Developer, and SQL Developer</strong> with hands-on experience turning raw data into impactful insights that support strategic business decisions.
+<br><br>
+🔍 I specialize in:
+<br><br>
+📊 <strong>Data Analysis & Visualization</strong> – transforming complex datasets into interactive dashboards using Power BI & Excel
+<br><br>
+🧠 <strong>Business Intelligence</strong> – analyzing trends and KPIs to drive performance improvements
+<br><br>
+🗂️ <strong>MIS Reporting</strong> – automating and managing regular reports to ensure data accuracy and efficiency
+<br><br>
+🛠️ <strong>SQL Development</strong> – writing efficient queries, procedures, and optimizing databases for performance
+<br><br>
+📈 <strong>Business Analysis</strong> – identifying business needs and providing data-backed recommendations
+<br><br>
+💡 I'm passionate about continuous learning, real-world problem-solving, and using data to tell meaningful stories. Whether it’s through dashboards, reports, or custom SQL queries, I aim to bridge the gap between data and decision-making.
+</p>
+</br>
 
 ## My Work Sample:
 
@@ -46,4 +62,4 @@ Hi, I'm Yogesh Gadekar, a passionate and results-driven Data Analyst, Business A
 
 </br>
 
-# 🤗😊 Thank You For Visiting Here 😊🤗
+## 🤗😊 Thank You For Visiting Here 😊🤗
