@@ -1,28 +1,41 @@
-# About_Me
-All about me
-
-### Hi there, I'm <a href="https://skst.in" target="_blank">Yogesh Gadekar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-gadekar-a1231b189)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sivaji.r.bhosale)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1ewggiks2e4pb&utm_content=3k17m6w)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@teachexptdemoart)
+# 💫 About Me:
+Hi, I'm Yogesh Gadekar, a passionate and results-driven Data Analyst, Business Analyst, MIS Executive, Power BI Developer, and SQL Developer with hands-on experience turning raw data into impactful insights that support strategic business decisions.<br><br>🔍 I specialize in:<br><br>📊 Data Analysis & Visualization – transforming complex datasets into interactive dashboards using Power BI & Excel<br><br>🧠 Business Intelligence – analyzing trends and KPIs to drive performance improvements<br><br>🗂️ MIS Reporting – automating and managing regular reports to ensure data accuracy and efficiency<br><br>🛠️ SQL Development – writing efficient queries, procedures, and optimizing databases for performance<br><br>📈 Business Analysis – identifying business needs and providing data-backed recommendations<br><br>💡 I'm passionate about continuous learning, real-world problem-solving, and using data to tell meaningful stories. Whether it’s through dashboards, reports, or custom SQL queries, I aim to bridge the gap between data and decision-making.
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yogeshgadekar.readme)
 
 Meet me, Yogesh Gadekar — an aspiring **Data Analyst** with an academic background in **M.Sc. and B.Ed.** Recently, I completed a **Data Analytics Mastery** course from SkillCourse, covering tools like **MS Excel, Power Query, Tally Prime, SQL, Python, Power BI, and Tableau**. I'm passionate about transforming data into actionable insights and am excited to transition into the IT industry.
 
+### Hi there, I'm <a href="https://skst.in" target="_blank">Yogesh Gadekar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+## 🌐 Socials:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-gadekar-a1231b189)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sivaji.r.bhosale)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1ewggiks2e4pb&utm_content=3k17m6w)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@teachexptdemoart)
+
+
 <img align="right" alt="Photo" src="https://drive.google.com/uc?export=view&id=1tl36uTzKnFbysmyTlQH9qdPslXJOe53B" width="400" height="225" />
 
-**Talking about Personal Stuff:**
 
-- 👨‍💻 I’m currently focusing on upskilling in data analytics;
-- 🚀 I’m exploring opportunities in the IT/data domain;
-- 💬 Ask me about data, analytics, or career transitions — happy to help;
-- 📫 How to reach me: yogeshgadekar141@gmail.com
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge&logo=powerbi&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-00C2D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-000080?style=for-the-badge&logo=visual-basic&logoColor=white)
+
 
 </br>
 
-📖 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=132006-bhumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=132006-bhumi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=132006-bhumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
